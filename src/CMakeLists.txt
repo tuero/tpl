@@ -2,14 +2,11 @@
 set(COMMON_SOURCES
     util/default_flags.cpp 
     util/default_flags.h
+    util/metrics_tracker.h
     util/queue.h
     util/replay_buffer.h 
-    util/metrics_tracker.cpp
-    util/metrics_tracker.h
-    util/timer.h
     util/thread_pool.h
-    util/util.cpp 
-    util/util.h
+    util/timer.h
 )
 
 
