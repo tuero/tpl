@@ -17,5 +17,6 @@ git submodule update
 - Command line argument parsing (`absl`)
 - Terminal and file logging (`spdlog`)
 - A thread pool runner
+- LRU Cache
 - Metrics exporting to csv files
 

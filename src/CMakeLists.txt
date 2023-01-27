@@ -1,12 +1,6 @@
 # Source files
 set(COMMON_SOURCES
     util/default_flags.cpp 
-    util/default_flags.h
-    util/metrics_tracker.h
-    util/queue.h
-    util/replay_buffer.h 
-    util/thread_pool.h
-    util/timer.h
 )
 
 
