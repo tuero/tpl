@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.ccls-cache/*
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# torch
+*.pt
+*tfevents.pb
+
+# Checkpoint structs
+*.nop
+
+# OSX specific
+.DS_Store
+
+# Build products
+build/
+build*/
+debug/
+debug*/
+cmake-build-*/
+dist/
+pyspiel.egg-info/
+
+# IDE
+.idea/
+.vscode/
+.cache/
+
